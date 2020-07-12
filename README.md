@@ -22,7 +22,7 @@ The below modules / techniques have been used in this project.
 * Fine tuning pretrained ImageNet model
 * PyTorch
 * Bi-LSTM
-* Binary Cross Entrophy with weighted loss
+* Binary Cross Entropy with weighted loss
 * Early Stopping
 * Feature extraction from CNN and Bi-LSTM
 * Text preprocessing
