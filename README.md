@@ -13,12 +13,13 @@ The dataset can be accessible from [here](https://drive.google.com/drive/folders
 * Images.zip - contains images of all imageids
 
 # Models
-The trained models can are saved and are accessible from [here](https://drive.google.com/drive/folders/1-PUS8HpKpCmRoJyngSWNpTFoL6mzY6xQ?usp=sharing)
+The trained models are saved and are accessible from [here](https://drive.google.com/drive/folders/1-PUS8HpKpCmRoJyngSWNpTFoL6mzY6xQ?usp=sharing)
 
 # Modules
 The below modules / techniques have been used in this project.
 * CNN Network
 * ResNet50
+* Fine tuning pretrained ImageNet model
 * PyTorch
 * Bi-LSTM
 * Binary Cross Entrophy with weighted loss
