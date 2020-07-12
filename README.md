@@ -29,3 +29,15 @@ The below modules / techniques have been used in this project.
 
 # Results
 The report [here](https://github.com/harinath0906/Multi-class-multi-label-Image-and-Text-Classification/blob/master/Project_report.pdf) contains the extensive details of all modules used with their background, all experiment results and the details of the neural network.
+
+# References
+https://pytorch.org/docs/stable/torchvision/models.html
+https://github.com/gskdhiman/Pytorch-Transfer-learning-Multi-Label-image-Classification/blob/master/pytorch-resnet50-starter.ipynb
+https://heartbeat.fritz.ai/basics-of-image-classification-with-pytorch-2f8973c51864
+https://www.learnopencv.com/pytorch-for-beginners-image-classification-using-pre-trained-models/
+https://pytorch.org/docs/stable/torchvision/transforms.html
+https://discuss.pytorch.org/t/multiclass-classification-skewed-data-problem-and-labeling/68437
+https://pytorch.org/tutorials/beginner/finetuning_torchvision_models_tutorial.html
+https://medium.com/udacity-pytorch-challengers/ideas-on-how-to-fine-tune-a-pre-trained-model-in-pytorch-184c47185a20
+https://discuss.pytorch.org/t/weights-in-bcewithlogitsloss/27452
+https://discuss.pytorch.org/t/multiclass-classification-skewed-data-problem-and-labeling/68437
